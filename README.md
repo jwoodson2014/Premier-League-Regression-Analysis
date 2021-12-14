@@ -2,7 +2,7 @@
 
 ### Goal:
 
-Using advanved statistics to predict PPM for attacking forwards and midfielders
+Using advanced statistics to predict PPM for attacking forwards and midfielders
 
 ### Steps:
 
@@ -15,7 +15,7 @@ Using advanved statistics to predict PPM for attacking forwards and midfielders
 ### Data:
 
 - Source: ([FB Ref](https://fbref.com/en/comps/9/10728/2020-2021-Premier-League-Stats))
-- Observations: 124 player
+- Observations: 124 players
 - Number of Independent Variables: 15 different statistics
 - Measure: Per 90 minutes
 
